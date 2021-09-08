@@ -1,0 +1,2 @@
+# Color-Visualization-of-Depth-Information-and-Run-Length-Based-Image-Compression
+This project uses color processing technology, writes a program to read the .row chip file in the attachment, visualizes the height data as a picture, and is based on the Run-Length compression method. The files are compressed without distortion. This project processes the height files of the .row chip design and performs distortion-free compression, which solves the problem that designers cannot directly see related information and the proportion of graphics files is too large.
